@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(150,170,100);
+}
+img{
+    width: 100%;
+    height: 100vw;
+    position:relative;
+    margin:auto;
+    padding: 2px , 2px , 4px ,4px;
+    
+
+}
+h1{
+    font-style: italic;
+    font-size: larger;
+    font-display: block;
+    text-align: top;
+    color:red; 
+    text-shadow: 2px , 2px, black;
+}
+p{
+    font-size: large;
+    color: darkred;
+}
+div{
+color:lightgray;
+}
+a:hover{
+    color:slategrey;
+    font-size:x-large;
+}
+a:visited{
+   color: black;
+   
+}
